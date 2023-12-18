@@ -1,7 +1,7 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 <p>
-<a href="https://linkedin.com/in/paballomodutwane/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="paballomodutwane" height="30" width="30" /></a>&nbsp;&nbsp;
-<a href="https://plainpablobeats@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@10.3.0/icons/gmail.svg" alt="paballomodutwane" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/paballomodutwane/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="paballomodutwane" height="30" width="30" /></a>&nbsp;&nbsp;
+<a href="https://plainpablobeats@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@10.3.0/icons/gmail.svg" alt="paballomodutwane" height="30" width="30" /></a>
 </p>
 
 <div>
